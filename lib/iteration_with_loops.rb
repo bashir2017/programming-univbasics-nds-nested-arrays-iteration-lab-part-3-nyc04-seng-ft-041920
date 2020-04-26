@@ -11,6 +11,5 @@ def join_nested_strings(src)
     end 
     row_index += 1 
   end
-  puts "HEEEEEEYYYY: " + final_string
   final_string
 end
